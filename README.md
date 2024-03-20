@@ -17,6 +17,9 @@ This project is designed to detect whether individuals in a video stream are wea
 
 ## Setup and Installation
 1. Clone the repository to your local machine.
+   ```
+   git clone https://github.com/vaidikrvyas/Face-Mask-Detection
+   ```
 2. Install the required dependencies:
    ```
    pip install -r requirements.txt
